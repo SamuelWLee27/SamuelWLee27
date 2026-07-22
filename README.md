@@ -6,12 +6,12 @@ At the moment I'm spending most of my time on 3D point clouds, signal processing
 
  
 ### Tech I use
----
- 
 **Languages:** C · C++ · Python · Assembly
+
 **ML / Data:** PyTorch · Computer Vision · Data Fusion · Point Clouds
+
 **Infra & Tools:** Docker · Linux · AWS · CMake · Catch2 · Git
+
 **Hardware:** Jetson · ARM · Embedded / PLC · CAN bus
----
 
 Reach me at samuelwlee27@gmail.com
